@@ -1,5 +1,6 @@
 # TestWork 342
 TestWork 342 t.me/egorleet
+- Тема: storefront
 - WordPress 5.9.3
 - WooCommerce 6.4.0
 
