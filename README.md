@@ -8,17 +8,17 @@ TestWork 342 t.me/egorleet
 картинкой + кнопкой remove для её удаления.
 время когда был создан продукт, а именно type=”date”.
 select c выбором типа продукта (rare, frequent, unusual)
-=
+<br>=<br>
 Сделал, реализовано через woocommerce_wp_text_input и woocommerce_wp_select , поле для загрузки изображения реализовано через input с классом hidden, а сама загрузка происходит в поле input type="file" через ajax функцию ajax_create_product (если не задан id, то функция работает на добавление товара, об этом ниже), также при загрузке задается изображение товара.
 Код php: /inc/woocommerce-custom-fields.php
 Код js: /js/woocommerce_inputs.js
 
 3. Добавить кнопку (JS) для полной очистки custom полей.
-=
-Сделал, также заметил что просто очистить и сохранить недостаточно, нужно еще чистить то, что лежит через additional field http://joxi.ru/52ajeKQClk7p7A , его чищу через .each
+<br>=<br>
+Сделал, также заметил что просто очистить и сохранить недостаточно, нужно еще чистить то, что лежит через additional field http://joxi.ru/52ajeKQClk7p7A , его чищу через .each + удаляется миниатюру
 
 4. Добавить (JS) кнопку, которая будет реализовывать submit(update)
-=
+<br>=<br>
 Сделал, реализовал через .click();
 
 
