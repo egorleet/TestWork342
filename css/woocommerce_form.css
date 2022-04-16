@@ -1,0 +1,39 @@
+#create-product {
+    display: flex;
+    flex-direction: column;
+}
+
+#create-product > label {
+    margin-top: 20px;
+}
+
+#create-product input[type="submit"] {
+    margin-top: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+.image_set {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-input-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.loading {
+    background: #1d2327;
+    padding: 10px;
+    text-align: center;
+    color: #FFF;
+    margin-top: 20px;
+}
+
+.loading a {
+    color: #FFF;
+    text-decoration: underline;
+}
