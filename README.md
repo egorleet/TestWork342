@@ -1,6 +1,10 @@
 # TestWork 342
 TestWork 342 t.me/egorleet
+- WordPress 5.9.3
+- WooCommerce 6.4.0
 
+
+Backend:
 1. При помощи плагина woocommerce реализовать custom fields для продукта.
 ВНИМАНИЕ! не использовать плагины для самого “custom field” создавать все при помощи кода.
 
