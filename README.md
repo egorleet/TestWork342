@@ -23,9 +23,9 @@ select c выбором типа продукта (rare, frequent, unusual)
 
 
 Frontend:
-Реализован показ миниатюры http://joxi.ru/KAxPMQ5CVKPxyA
-Форма реализована, через отдельный темплэйт /template-create-product.php , работает по ajax (/js/woocommerce_form.js) (стили старался использовать те, которые уже имеются в теме storefront)
-Вывод товаров на главной реализован на front-page.php
+1. Реализован показ миниатюры http://joxi.ru/KAxPMQ5CVKPxyA
+2. Форма реализована http://joxi.ru/BA0kbw4C1pnEv2, через отдельный темплэйт /template-create-product.php , работает по ajax (/js/woocommerce_form.js) (стили старался использовать те, которые уже имеются в теме storefront)
+3. Вывод товаров на главной реализован на front-page.php http://joxi.ru/MAjPekMCdkPbYm через do_shortcode()
 
 В завершении скажу спасибо, задание было очень интересное, мне понравилось! Желаю вам отличного дня :)
 
