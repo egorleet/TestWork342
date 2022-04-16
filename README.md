@@ -21,6 +21,10 @@ select c выбором типа продукта (rare, frequent, unusual)
 <br>=<br>
 Сделал, реализовал через .click();
 
+Скриншот всего:
+<br>=<br>
+http://joxi.ru/gmvPVEeCe1P48A
+
 
 Frontend:
 1. Реализован показ миниатюры http://joxi.ru/KAxPMQ5CVKPxyA
