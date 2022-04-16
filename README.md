@@ -1,4 +1,4 @@
-# TestWork342
+# TestWork 342
 TestWork 342 t.me/egorleet
 
 1. При помощи плагина woocommerce реализовать custom fields для продукта.
